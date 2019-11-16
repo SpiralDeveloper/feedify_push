@@ -1,0 +1,2 @@
+include ':app', ':feed_push'
+rootProject.name='My Application'
